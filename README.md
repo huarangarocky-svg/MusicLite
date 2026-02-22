@@ -1,5 +1,8 @@
 <a href="https://github.com/GataNina-Li"><img src="https://readme-typing-svg.herokuapp.com?font=Boldonse&size=15&duration=3000&pause=1000&color=00FF00&center=true&width=435&lines=Siempre+hay+algo+nuevo+por+descubrir;%F0%9F%8D%AD+PANDA-MODS;%C2%A1Nuestra+creatividad+no+tiene+l%C3%ADmites!" height="90px"></a> 
 
+<p align="center">
+<img src="FB_IMG_1771553970047.jpg" alt="PANDA-MODS" width="900"/>
+</p>
 
 <div align="center">
 <a href="https://facebook.com/groups/872989990425789/">
